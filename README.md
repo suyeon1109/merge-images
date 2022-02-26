@@ -9,35 +9,22 @@ The problem started when I used an online "image.merge" platform. The first thre
 # 🔥 HOW TO USE
 
   - Overall Scatches of HOW TO USE
+### 1. Run program.
+<img src = "img/screenshots/initial page.png?raw=true">    
+
+### 2. Click "Add files" to upload images.
+<img src = "img/screenshots/add files.png?raw=true">    
+
+### 3. Click "Path" to setup the directory to store result image and select any options you need.
+<img src = "img/screenshots/Path.png?raw=true">   
+
+### 4. Click "Merge" to merge images it will return an i9mage to the path you selected.
+<img src = "img/screenshots/option.png?raw=true">   
+
+### 5. Result Image
+<img src = "img/screenshots/task completed.png?raw=true">   
 
 
-<img src = "" width="150px">    
-<img src = "" width="150px">    
-<img src = "" width="150px">   
-<img src = "" width="150px">   
-<img src = "" width="150px">   
-<img src = "" width="150px">
-
-# 🔥 Milestone 2
-
-  - Prototyping and Problem Solution
-```
-  ZeroClass provides the Emergency Assistant Matching Service, the Cardian, based on AutoCrypt’s FMS Data 
-  and V2X Technologies. Cardian connects the vehicle and pedestrian who needs emergency help through vehicle 
-  data collected with VMS and a call reported with mobile application.
-```
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/스크린샷 2021-05-23 오후 2.22.20.png" width="auto">
-
-# 🔥 Milestone 3
-  - Defining Key Features and Application Build (IOS & Android)
-  
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/app_features.jpeg" width="auto">
-
-# 🔥 Milestone 4
-  - Video Creation & App Demo
-```
-https://www.youtube.com/watch?v=u4-eqjqWVGo
-```
 # Application Installation
 ```
 Used Technology
