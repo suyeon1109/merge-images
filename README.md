@@ -6,12 +6,17 @@
 # Problem Statement
 The problem started when I used an online "image.merge" platform. The first three image upload was for free, but then, it charged me to pay 20 cents per image. From this problem, I decided to created my own image merging program that is not commercially used. None of advertisement is included in this program. With a click of download, you can easily merge infinite number of images.
 
-# 🔥 Milestone 1 
+# 🔥 HOW TO USE
 
-  - Overall Scatches
+  - Overall Scatches of HOW TO USE
 
 
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-1.jpeg" width="150px">    <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-2.jpeg" width="150px">    <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-3.jpeg" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-4.png" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-5.jpeg" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-6.png" width="150px">
+<img src = "" width="150px">    
+<img src = "" width="150px">    
+<img src = "" width="150px">   
+<img src = "" width="150px">   
+<img src = "" width="150px">   
+<img src = "" width="150px">
 
 # 🔥 Milestone 2
 
