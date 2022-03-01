@@ -90,10 +90,10 @@ file_frame.pack(fil = "x", padx=5, pady=5) #간격띄우기
 
 
 #가로넓이 확보
-btn_add_file = Button(file_frame, padx=5, pady=5, width=12, text="add files", command=add_file)
+btn_add_file = Button(file_frame, padx=5, pady=5, width=13, text="add files", command=add_file)
 btn_add_file.pack(side="left")
 
-btn_del_file = Button(file_frame, padx=5, pady=5, width=12, text="delete list", command=del_file)
+btn_del_file = Button(file_frame, padx=5, pady=5, width=13, text="delete list", command=del_file)
 btn_del_file.pack(side="right")
 
 
@@ -111,54 +111,54 @@ scrollbar.config(command=list_file.yview)
 
 #저장경로 프레임
 path_frame = LabelFrame(root, text="Path")
-path_frame.pack(fill="x", padx=5, pady=5, ipady=5)
+path_frame.pack(fill="x", padx=6, pady=6, ipady=6)
 
 txt_dest_path = Entry(path_frame)
 txt_dest_path.pack(side="left", fill="x", expand=True, padx=5, pady=5, ipady=4) #높이변경
 
 #찾아보기 버튼
-btn_dest_path = Button(path_frame, text = "Directory", width = 7, command=browse_dest_path)
-btn_dest_path.pack(side="right", padx=5, pady=5)
+btn_dest_path = Button(path_frame, text = "Directory", width = 8, command=browse_dest_path)
+btn_dest_path.pack(side="right", padx=6, pady=6)
 
 
 
 #option frame
 frame_option = LabelFrame(root, text="Option")
-frame_option.pack(padx=5, pady=5, ipady=5)
+frame_option.pack(padx=6, pady=5, ipady=5)
 
 
 #1.가로넓이 옵션
 #가로넓이 레이블
-lbl_with = Label(frame_option, text="width", width=5)
+lbl_with = Label(frame_option, text="width", width=6)
 lbl_with.pack(side="left", padx=5, pady=5)
 
 #가로넓이 콤보
 opt_width = ["Original", "1024", "800", "640"]
-cmb_width = ttk.Combobox(frame_option, state="readonly", values=opt_width, width=10)
+cmb_width = ttk.Combobox(frame_option, state="readonly", values=opt_width, width=11)
 cmb_width.current(0) #콤보박스에서 가장 먼저 나타낼 값의 인덱스 위치
 cmb_width.pack(side="left", padx=5, pady=5)
 
 
 #2. 간격옵션
 #간격옵션 레이블
-lbl_space = Label(frame_option, text="space", width=5)
+lbl_space = Label(frame_option, text="space", width=6)
 lbl_space.pack(side="left", padx=5, pady=5)
 
 #간격 옵션 콤보
 opt_space = ["None", "small", "medium", "large"]
-cmb_space = ttk.Combobox(frame_option, state="readonly", values=opt_space, width=10)
+cmb_space = ttk.Combobox(frame_option, state="readonly", values=opt_space, width=11)
 cmb_space.current(0) #콤보박스에서 가장 먼저 나타낼 값의 인덱스 위치
 cmb_space.pack(side="left", padx=5, pady=5)
 
 
 #3.파일 포맷옵션
 #파일 포맷 레이블
-lbl_format = Label(frame_option, text="format", width=5)
+lbl_format = Label(frame_option, text="format", width=6)
 lbl_format.pack(side="left", padx=5, pady=5)
 
 #파일 포맷 옵션 콤보
 opt_format = ["PNG", "JPG", "BMP"]
-cmb_format = ttk.Combobox(frame_option, state="readonly", values=opt_format, width=10)
+cmb_format = ttk.Combobox(frame_option, state="readonly", values=opt_format, width=11)
 cmb_format.current(0)
 cmb_format.pack(side="left", padx=5, pady=5)
 
@@ -174,10 +174,10 @@ progress_bar.pack(fill="x", padx=5, pady=5)
 frame_run = Frame(root)
 frame_run.pack(fill="x", padx=5, pady=5)
 
-btn_close = Button(frame_run, padx=5, pady=5, text="close", width=12, command=root.quit)
+btn_close = Button(frame_run, padx=5, pady=5, text="close", width=13, command=root.quit)
 btn_close.pack(side="right", padx=5, pady=5)
 
-btn_start = Button(frame_run, padx=5, pady=5, text="merge", width=12, command=start)
+btn_start = Button(frame_run, padx=5, pady=5, text="merge", width=13, command=start)
 btn_start.pack(side="right", padx=5, pady=5)
 
 root.resizable(False, False)
