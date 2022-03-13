@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src = "https://github.com/timkim0713/Cardian/blob/master/images/autocryptXcardinal.jpeg" width="auto">
 </p>
 
 # Problem Statement
@@ -54,4 +53,4 @@ All of the codes were written in the environment of Windows 10 and Mac OS.
 # Bug Tracking
 
 #### Any users can submit their bug report in "Github Issues" of our repository. 
-#### Check out the recent issues from : https://github.com/timkim0713/Cardian/issues
+#### Check out the recent issues from : https://github.com/suyeon1109/merge-images/issues
