@@ -24,32 +24,6 @@ The problem started when I used an online "image.merge" platform. The first thre
 <img src = "img/screenshots/task completed.png?raw=true">   
 
 
-# Application Installation
-```
-Used Technology
-
-Android / iOS built using React Native 0.64
-Expected to use FMS and V2X Technology from AutoCrypt.
-
-
-Installation
-
-yarn install
-
-@ANDROID
-$ yarn start
-$ yarn android
-
-@IOS
-$ cd ios
-$ pod install
-$ yarn run ios
-```
-# Operating System
-```
-All of the codes were written in the environment of Windows 10 and Mac OS.
-```
-
 # Bug Tracking
 
 #### Any users can submit their bug report in "Github Issues" of our repository. 
